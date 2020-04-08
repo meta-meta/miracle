@@ -106,7 +106,7 @@ Keys                | Description
 #### Prerequisites
 
 - company-mode -- https://company-mode.github.io/
-- clojure-complete -- https://github.com/ninjudd/clojure-complete
+- clojure-complete (clr branch) -- https://github.com/sogaiu/clojure-complete/tree/clr-support
 
 Put the following in your `init.el`.
 
