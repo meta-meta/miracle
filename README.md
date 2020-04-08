@@ -106,6 +106,7 @@ Keys                | Description
 #### Prerequisites
 
 - company-mode -- https://company-mode.github.io/
+- clojure-complete -- https://github.com/ninjudd/clojure-complete
 
 Put the following in your `init.el`.
 
