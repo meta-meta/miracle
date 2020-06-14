@@ -70,7 +70,8 @@ code and where *miracle-interaction-mode* is activated.
 
 Keys                | Description
 --------------------|----------------------------
-<kbd>C-c C-c</kbd>  | Evaluate expression at point.
+<kbd>C-c C-c</kbd>  | Evaluate top level expression.
+<kbd>C-c C-e</kbd>  | Evaluate expression at point.
 <kbd>C-c C-r</kbd>  | Evaluate region.
 <kbd>C-c C-k</kbd>  | Evaluate current buffer contents.
 <kbd>C-c C-l</kbd>  | Load current file from disk.
